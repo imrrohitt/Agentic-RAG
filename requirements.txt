@@ -1,0 +1,12 @@
+langchain
+llama-index
+faiss-cpu
+fastapi
+uvicorn
+zstd
+PyPDF2
+sentence-transformers
+scikit-learn
+numpy
+pandas
+google-generativeai
