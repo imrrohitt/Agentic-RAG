@@ -1,22 +1,3 @@
-"""
-Agentic RAG System - Core Implementation
-========================================
-
-This module implements a high-level, open-source agentic Retrieval-Augmented Generation (RAG) 
-system that integrates LangChain for agentic workflows, LlamaIndex for advanced indexing and 
-retrieval, the Gemini API as the primary LLM, and FAISS for efficient vector storage.
-
-Features:
-- Multi-step reasoning with master and sub-agents
-- Hybrid search (semantic + keyword)
-- Multimodal data ingestion (text and PDFs)
-- Memory module for contextual continuity
-- Production-ready architecture
-
-Author: Open Source Community
-License: MIT
-"""
-
 import os
 import logging
 import asyncio
